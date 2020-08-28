@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML CHEAT SHEET</title>
+  </head>
+  <body>
+    <h1>Heading One</h1>
+    <h2></h2>
+    <h3></h3>
+    <h4></h4>
+    <p></p>
+    <ul>
+      <li>Name</li>
+      <li>Email</li>
+      <li></li>
+      <li></li>
+    </ul>
+    
+     <ol>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+      </ol>
+       <table>
+         <thead>
+           <tr>
+             <th>name</th>
+             <th>email</th>
+             <th>age</th>
+           </tr>
+         </thead>
+         <tbody>
+           <tr>
+             <td>Bruhtato Chip</td>
+             <td></td>
+             <td></td>
+           </tr>
+         </tbody>
+         
+       </table>
+       <!--Forms-->
+  
+       <form action="process.php" method="post">
+        <div>
+         <label>First Name</label>
+         <input type="email" name="first">
+         </div>
+         <br>
+         <div>
+          
+           <label>Last Name</label>
+           <input type="text" name="lastname">
+         </div>
+         <div>
+         <label>Email</label>
+         <input type="email" name="email">
+         </div>
+         <div>
+         <label>message</label>
+         <textarea name="message"></textarea>
+         </div>
+       
+       
+       <div>
+       <label>Birthday</label>
+       <input type="date" name="birthday">
+       </div>
+       <br>
+       <input type="submit" name="submit" vaule="submit">
+       </form>
+
+<!-- Button -->
+<button>Click me</button>
+<br>
+<!-- image -->
+<a href="image/bubble bass.jpg">
+<img src="bubble bass.jpg" alt="my bubble image" width=200>
+</a>
+
+<!-- quotation -->
+<blockquote cite="http://traversymedia.com">
+  I don't know
+</blockquote>
+
+<div style="margin-top:500px"></div>
+     
+  </body>
+</html>
