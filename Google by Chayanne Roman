@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <html>
+      </head>
+       <center>
+        <img src="Old-google.jpeg" alt="Old-google.jpeg" width="278" height="200"></center>
+      
+          <div>
+            <center>
+            <input type="text" width="300" height="200">
+            </center>
+          </div>
+        <div>
+        <center>
+          <button name="btton Google">Google Search </button>
+        </center>
+        <center>
+        <button name="btton lucky">Im feeling lucky</button>
+        </center>
+        </div>
+        <div style="margin-top:500px"></div>
+      
+    </html>
+    
